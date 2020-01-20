@@ -1,2 +1,4 @@
-# roofit
-A 20 min tutorial for RooFit: https://root.cern.ch/roofit-20-minutes
+# Roofit scripts
+
+- `sim_double_gaussian.cpp` 
+  Simultaneous double Gaussian fits with Chebychev background.
